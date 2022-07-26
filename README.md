@@ -1,5 +1,7 @@
 # Project Patterns study with Java and Spring
 
+## All code was done during a course of the [DIO](https://www.dio.me/) - TQI Fullstack Developer Bootcamp
+
 Repository with implementations of design patterns explored in the Lab "Exploring Design Patterns in Practice with Java":
 
 - Singleton
